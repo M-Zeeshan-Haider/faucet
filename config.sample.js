@@ -5,7 +5,7 @@ module.exports = {
   notiferUserId: 'district1',
   serviceUserMemoKey: 'BTS4y2pnAmFEMEti6fokAbm6yg18RhAEkdWqJdfx3jjzjfjoXRkMN',
   referrerPercent: 5000,
-  serviceUserBrainkey: 'TECTUM SPACE SEXUALE CANNY SHUNNER BROKER LUGSAIL NARDINE SHEEN FOLDED IDIOT CHAY AMMELIN EQUATE EMBUS PETTED',
+  serviceUserBrainkey: '',
   bitsharesNodes: [
     'wss://bitshares.openledger.info/ws',
     'wss://eu.openledger.info/ws',
